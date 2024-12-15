@@ -3,6 +3,16 @@ This is a crystal equivalent circuit in LTSpice.
 
 ## Circuit in LTSpice
 
+The frequency of the crystal is ~10.00Mhz in this case.
+
+$$R_{S} = 20ohm$$
+
+$$C_{S} = 0.004pF $$
+
+$$L_{S} = 63.325738mH $$
+
+$$C_{P} = 5pF $$
+
 ![kép](https://github.com/user-attachments/assets/d34090c7-9ad2-4987-abaf-4126414080c5)
 
 ## Equations
