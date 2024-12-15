@@ -23,4 +23,8 @@ $$X_{CP} = \frac{1}{2 * \pi * f * C_{p}}$$
 
 **Series**
 
-$$Z_{s} = \sqrt{R_{s}^2 + (X_{LS} + X_{CS})^2 }$$
+$$Z_{s} = \sqrt{R_{s}^2 + (X_{LS} - X_{CS})^2 }$$
+
+**Parallel**
+
+$$Z_{p} = \frac{Z_{s} * X_{CP}}{Z_{s} + X_{CP}}$$
