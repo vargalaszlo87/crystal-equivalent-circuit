@@ -1,6 +1,10 @@
 # crystal-equivalent-circuit
 This is a crystal equivalent circuit in LTSpice.
 
+## Circuit in LTSpice
+
+![kép](https://github.com/user-attachments/assets/d34090c7-9ad2-4987-abaf-4126414080c5)
+
 ## Equations
 
 ### Series resonant frequency
