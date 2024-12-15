@@ -5,5 +5,5 @@ This is a crystal equivalent circuit in LTSpice.
 
 ### Series resonant frequency
 
-$$f_{s} = 1 / 2 * \pi * \sqrt(L_{s} * C_{s})$$
+$$f_{s} = \frac{1}{2 * \pi * \sqrt{L_{s} * C_{s}}}$$
 
