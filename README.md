@@ -1,9 +1,9 @@
 # crystal-equivalent-circuit
-This is a crystal equivalent circuit in LTSpice.
+This is a crystal equivalent circuit in LTSpice. "A crystal is nothing more than a tunable impedance."
 
 ## Circuit in LTSpice
 
-The frequency of the crystal is ~10.00Mhz in this case.
+The frequency of the crystal is ~10.00MHz in this case.
 
 $$R_{S} = 20ohm$$
 
@@ -14,6 +14,13 @@ $$L_{S} = 63.325738mH $$
 $$C_{P} = 5pF $$
 
 ![kép](https://github.com/user-attachments/assets/d34090c7-9ad2-4987-abaf-4126414080c5)
+
+## Simulation results
+
+**Impedance plot**
+
+![kép](https://github.com/user-attachments/assets/42156623-88d6-40e8-9bae-af090512c1c7)
+
 
 ## Equations
 
