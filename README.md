@@ -23,6 +23,10 @@ The series impedance is **10.00MHz**, the paralell is **10.004Mhz**. The delta i
 
 ![kép](https://github.com/user-attachments/assets/42156623-88d6-40e8-9bae-af090512c1c7)
 
+**Phase plot with type**
+
+![kép](https://github.com/user-attachments/assets/376e1d4f-15b1-42de-86ba-df3d5c25d770)
+
 
 ## Equations
 
