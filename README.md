@@ -19,6 +19,8 @@ $$C_{P} = 5pF $$
 
 **Impedance plot**
 
+The series impedance is **10.00MHz**, the paralell is **10.004Mhz**. The delta is 4.007kHz.
+
 ![kép](https://github.com/user-attachments/assets/42156623-88d6-40e8-9bae-af090512c1c7)
 
 
