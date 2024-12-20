@@ -59,3 +59,16 @@ $$Z_{s} = \sqrt{R_{s}^2 + (X_{LS} - X_{CS})^2 }$$
 **Parallel**
 
 $$Z_{p} = \frac{Z_{s} * X_{CP}}{Z_{s} + X_{CP}}$$
+
+## 👨‍⚖️ License
+
+Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. See `LICENSE.txt` for more information.
+
+
+## 📬 Contact
+
+Varga Laszlo - https://vargalaszlo.com - mail@vargalaszlo.com.com
+
+Project Link: https://github.com/vargalaszlo87/crystal-equivalent-circuit
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://vargalaszlo.com)
